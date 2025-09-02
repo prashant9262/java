@@ -1,0 +1,17 @@
+
+import java.util.Scanner;
+
+public class read_character {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("Read the character : ");
+        char ch = sc.next().charAt (5);
+
+        System.out.println("Character is : " + ch);
+        sc.close();
+        
+    }
+    
+}
