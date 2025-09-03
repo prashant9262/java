@@ -23,6 +23,7 @@ public class forloopsomequestion {
             i++;
         }
         System.out.println("The sum is :" + sum);
+         sc.close();
      
     }
     
