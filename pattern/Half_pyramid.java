@@ -1,4 +1,4 @@
-//package pattern;
+package pattern;
 
 public class Half_pyramid {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-//package pattern;
+package pattern;
 
 import java.util.Scanner;
 public class Hollow_Rectangle {
@@ -24,6 +24,7 @@ public class Hollow_Rectangle {
 
            
         }
+        sc.close();
        
     }
     

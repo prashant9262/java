@@ -1,4 +1,4 @@
-//package pattern;
+package pattern;
 
 public class reverse_Right_Angle_Trangle {
     public static void main(String[] args) {
