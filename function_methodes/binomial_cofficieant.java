@@ -25,7 +25,7 @@ public class binomial_cofficieant {
         int n = sc.nextInt();
         System.out.println( "Enter a number R :");
         int r = sc.nextInt();
-        System.out.println("The factorial of "+ n + " or " + r + " " + " --> " + binocoff(n , r));
+        System.out.println("The binomial_factorial of "+ n + " or " + r + " " + " --> " + binocoff(n , r));
 
         sc.close();
     }
