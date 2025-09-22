@@ -1,5 +1,3 @@
-//package function_methodes;
-
 import java.util.Scanner;
 
 public class parameter{
@@ -16,6 +14,8 @@ public class parameter{
         int b = sc.nextInt();
         int sum = calculatesum(a, b); // jo value ham call krte hai wo ---> argument or actual parameter  hote hai
         System.out.println("Sum is :" + sum);
+
+        sc.close();
     }
     
 }
