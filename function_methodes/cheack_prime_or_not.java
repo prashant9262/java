@@ -36,11 +36,11 @@ public class cheack_prime_or_not {
  }
  public static void main(String[] args) {
      Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number :");
-        int n = sc.nextInt();
-        System.out.println(isprime(n));
+     System.out.println("Enter a number :");
+     int n = sc.nextInt();
+     System.out.println(isprime(n));
 
-        sc.close();
+     sc.close();
     
     }
 
