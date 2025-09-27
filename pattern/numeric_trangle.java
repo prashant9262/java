@@ -14,6 +14,7 @@ public class numeric_trangle {
             }
 
             System.out.println();
+            sc.close();
         }
     }
     
